@@ -14,12 +14,12 @@
 };
 
 &sk {
-    release-after-ms = <1000>;
+    release-after-ms = <250>;
     // quick-release;
 };
 
 &sl {
-    release-after-ms = <1000>;
+    release-after-ms = <250>;
 };
 
 
